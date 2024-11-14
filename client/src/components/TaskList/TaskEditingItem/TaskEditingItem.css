@@ -1,0 +1,10 @@
+.task-file {
+    width: 107px!important;
+}
+
+.task-file label {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 190px;
+}
